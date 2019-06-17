@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@energicryptocurrency/energid-rpc": "^0.2.0",
+    "admin-mongo": "0.0.23",
     "bitcoin-node-api": "^0.1.0",
     "body-parser": "^1.0.2",
     "cookie-parser": "^1.0.1",
